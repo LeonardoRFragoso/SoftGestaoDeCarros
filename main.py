@@ -50,6 +50,7 @@ def mostrar_portifolio():
 
 #=========================Tela=de=Alugar========================================================
 def mostrar_tela_aluguel():
+
     global alugados
     os.system('cls')
     print('ALUGUEL')
